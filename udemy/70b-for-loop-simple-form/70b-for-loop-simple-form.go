@@ -6,11 +6,11 @@ import (
 
 func main() {
 	for {
-		years_alive := 1989
+		yearsAlive := 1989
 		for {
-			if years_alive <= 2020 {
-				fmt.Println(years_alive)
-				years_alive++
+			if yearsAlive <= 2020 {
+				fmt.Println(yearsAlive)
+				yearsAlive++
 			}
 		}
 	}
