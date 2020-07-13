@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+//create a new struct type called person and create 3 fields called first, last, and age
 type person struct {
 	first string
 	last  string
